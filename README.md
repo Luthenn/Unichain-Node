@@ -46,6 +46,9 @@ nano .env.sepolia
 
 - OP_NODE_L1_BEACON to: https://ethereum-sepolia-beacon-api.publicnode.com
 
+  <img width="749" alt="image" src="https://github.com/user-attachments/assets/f2584d49-4759-48b7-8516-4fac77665a03">
+
+
 
 8) Run the Node
 ```
